@@ -4,7 +4,7 @@
 
 ```markdown
 
-## bash <(wget --no-check-certificate -4qO- https://raw.githubusercontent.com/midianews/wordpress/master/docker.sh)
+- bash <(wget --no-check-certificate -4qO- https://raw.githubusercontent.com/midianews/wordpress/master/docker.sh)
 
 ```
 
