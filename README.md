@@ -4,7 +4,9 @@
 
 ```markdown
 
-# bash <(wget --no-check-certificate -4qO- https://raw.githubusercontent.com/midianews/wordpress/master/docker.sh)
+# Para utilizar o Script abaixo, basta Copiar e Colar no seu VPS KVM. 
+
+bash <(wget --no-check-certificate -4qO- https://raw.githubusercontent.com/midianews/wordpress/master/docker.sh)
 
 ```
 
