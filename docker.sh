@@ -91,4 +91,5 @@ ENV=$OLSDIR/.env
 YML=$OLSDIR/docker-compose.yml
 IP=$(curl -LSs ifconfig.me)
 
+exit 1
 #reboot
