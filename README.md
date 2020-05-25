@@ -1,4 +1,4 @@
-## Benvindo ao Script de Instalação Completo do WORDPRESS no DENIAN 10 KVM.
+## Benvindo ao Script de Instalação Completo do _WORDPRESS_ no `DEBIAN 10 KVM`.
 
 ### Baixar o Script
 
