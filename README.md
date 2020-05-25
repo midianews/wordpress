@@ -4,9 +4,9 @@
 
 ```markdown
 
-# bash <(wget --no-check-certificate -4 -qO- http://website.com/my-script.sh)
+# bash <(wget --no-check-certificate -4 -qO- https://raw.githubusercontent.com/midianews/wordpress/master/docker.sh)
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Caso você queira [Baixar o Script](https://raw.githubusercontent.com/midianews/wordpress/master/docker.sh) manualmente.
 
