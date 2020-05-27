@@ -22,7 +22,7 @@ RUN apk update && \
     apk add --no-cache htop mariadb mariadb-client mariadb-server-utils pwgen mariadb-mytop && \
     rm -f /var/cache/apk/*
 
-ADD https://raw.githubusercontent.com/midianews/wordpress/master/run.sh /scripts/run.sh
+ADD https://raw.githubusercontent.com/midianews/wordpress/master/mariadb/run.sh /scripts/run.sh
 RUN mkdir /docker-entrypoint-initdb.d && \
     mkdir /scripts/pre-exec.d && \
     mkdir /scripts/pre-init.d && \
